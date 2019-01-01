@@ -1,0 +1,24 @@
+1> setting global config one time job.
+git config --global user.name "Nitish Singla"
+git config --global user.email "nitishsingla2712@gmail.com"
+
+2>list all config
+git config --list
+
+3> initialize git in local
+git init
+
+4> to add files for tracking
+git add -A
+
+5> to commit files
+git commit -m "message"
+
+6> to create a git repo from local
+curl -u nitish2712:password https://api.github.com/user/repos -d "{\"name\":\"euler\"}"
+
+7> to set the remote
+git remote add orogon https://github.com/nitish2712/euler.git
+
+8> to push changes committed
+git push

@@ -2,6 +2,7 @@ import java.time.Duration;
 import java.time.Instant;
 
 //Find the sum of all the multiples of 3 or 5 below 1000.
+//in this case streams are slower than for loop.
 public class Problem1 {
 
     public static void main(String []arg){
