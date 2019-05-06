@@ -18,7 +18,7 @@ git commit -m "message"
 curl -u nitish2712:password https://api.github.com/user/repos -d "{\"name\":\"euler\"}"
 
 7> to set the remote
-git remote add orogon https://github.com/nitish2712/euler.git
+git remote add origin https://github.com/nitish2712/euler.git
 
 8> to push changes committed
 git push
