@@ -29,4 +29,5 @@ git reset head
 10> checking the git diff for a file, default it compares with the staging area
 git diff Readme.md
 
-11>
+11> git diff to last committed changes
+git diff HEAD

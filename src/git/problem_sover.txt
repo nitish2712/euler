@@ -1,0 +1,2 @@
+This is a first change, in this file.
+By default last commit is head.
