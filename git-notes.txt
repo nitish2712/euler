@@ -31,3 +31,15 @@ git diff Readme.md
 
 11> git diff to last committed changes
 git diff HEAD
+
+12>git clone from remote
+git clone https://github.com/nitish2712/euler.git
+
+13> when we have got git remote and git local, and we want to connect them.
+git remote add origin https://github.com/nitish2712/euler.git
+
+14> to push changes.
+git push <remote-name> <branch-name>
+git push origin master
+
+15
