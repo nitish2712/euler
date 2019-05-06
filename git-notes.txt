@@ -22,3 +22,11 @@ git remote add origin https://github.com/nitish2712/euler.git
 
 8> to push changes committed
 git push
+
+9> removing uncommitted files from staging area
+git reset head
+
+10> checking the git diff for a file, default it compares with the staging area
+git diff Readme.md
+
+11>
